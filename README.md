@@ -10,8 +10,8 @@ In the future I'm planning on adding an install script to make it easier for oth
 
 Some of them won't make sense.
 
-- Operating System: [Arch Linux](https://archlinux.org/?target="_blank") 
-- Window Manager: [i3](https://github.com/i3/i3){:target="_blank"} 
+- Operating System: [Arch Linux](https://archlinux.org/)
+- Window Manager: [i3](https://github.com/i3/i3){target="_blank"} 
 - Status Bar: [Polybar](https://github.com/polybar/polybar){:target="_blank"} 
 - Terminal: [konsole](https://github.com/KDE/konsole){:target="_blank"} 
 - Launcher: [rofi](https://github.com/davatorium/rofi){:target="_blank"} 
