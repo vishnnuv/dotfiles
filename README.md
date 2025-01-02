@@ -11,12 +11,12 @@ In the future I'm planning on adding an install script to make it easier for oth
 Some of them won't make sense.
 
 - Operating System: [Arch Linux](https://archlinux.org/)
-- Window Manager: [i3](https://github.com/i3/i3){target="_blank"} 
-- Status Bar: [Polybar](https://github.com/polybar/polybar){:target="_blank"} 
-- Terminal: [konsole](https://github.com/KDE/konsole){:target="_blank"} 
-- Launcher: [rofi](https://github.com/davatorium/rofi){:target="_blank"} 
-- Browser: [Firefox (with BetterFox)](https://github.com/yokoffing/BetterFox){:target="_blank"} 
-- File Manager: [dolphin](https://github.com/KDE/dolphin){:target="_blank"} 
-- Compositor: [picom](https://github.com/yshui/picom){:target="_blank"} 
-- Video Player: [vlc](https://github.com/videolan/vlc){:target="_blank"} 
-- Lockscreen: [sddm](https://github.com/sddm/sddm){:target="_blank"}  Autologin btw.
+- Window Manager: [i3](https://github.com/i3/i3) 
+- Status Bar: [Polybar](https://github.com/polybar/polybar)
+- Terminal: [konsole](https://github.com/KDE/konsole) 
+- Launcher: [rofi](https://github.com/davatorium/rofi) 
+- Browser: [Firefox (with BetterFox)](https://github.com/yokoffing/BetterFox)
+- File Manager: [dolphin](https://github.com/KDE/dolphin)
+- Compositor: [picom](https://github.com/yshui/picom)
+- Video Player: [vlc](https://github.com/videolan/vlc) 
+- Lockscreen: [sddm](https://github.com/sddm/sddm)  Autologin btw.
